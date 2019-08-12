@@ -11,3 +11,6 @@ https://user-images.githubusercontent.com/40337942/62862150-f5176680-bd22-11e9-8
 
 InApp Adverisents have also been provided in general .
 
+https://user-images.githubusercontent.com/40337942/62862374-3ad42f00-bd23-11e9-9c2b-ad91838746c4.png
+
+As per the apple guidelines it is extremely important to basically take the user permissions before accessing the app so This has also been doen using info.plist where I have take the permission.
