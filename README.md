@@ -22,4 +22,11 @@ Now the driver table would get updated as follows
 https://user-images.githubusercontent.com/40337942/62862754-70c5e300-bd24-11e9-867e-2258bf529133.png
 
 The driver choses the ride and accepts the ride.
+The driver would now get redirected to the apple maps  which will show the total distance between driver and the customer which is very cool.
+
+https://user-images.githubusercontent.com/40337942/62862898-e631b380-bd24-11e9-9fb5-fdd68eb8cb4e.png
+
+
+
+While the customer would only be shown how far the driver is .
 
